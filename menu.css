@@ -1,0 +1,10 @@
+.menu a{
+    /* color: white;
+    margin-bottom: 12px; */
+    display: block;
+    /* background: red; */
+}
+
+.hide{
+    display: none;
+}

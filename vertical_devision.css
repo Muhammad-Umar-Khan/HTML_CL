@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+.main_container{
+    display: flex;
+}
+
+.left_div{
+    width: 30%;
+    height: calc(100vh - 18px);
+    background-color: lightskyblue;
+}
+
+.right_div{
+    left: 70%;
+}

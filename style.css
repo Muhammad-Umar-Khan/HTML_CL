@@ -1,5 +1,6 @@
 body{
     background-image: url("https://i.pinimg.com/564x/b1/31/0a/b1310a301398dc8c87f59e5dc9b37f40.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
+    background-position: center 20px;
 }

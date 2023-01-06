@@ -4,3 +4,5 @@ Attributes act like extra information tied to an HTML element. They are written 
 Block elements are meant to structure the main parts of your page, by dividing your content in coherent blocks.
 
 Inline elements are meant to differentiate part of a text, to give it a particular function or meaning. Inline elements usually comprise a single or few words.
+
+To push away your neighbours
